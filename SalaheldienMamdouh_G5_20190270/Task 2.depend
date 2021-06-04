@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1620656446 source:d:\projects\task 2 - oop\task 2\main.cpp
+	<iostream>
+	<Publication.h>
+	<Book.h>
+	<Tape.h>
+
+1620651887 source:d:\projects\task 2 - oop\task 2\src\book.cpp
+
+1620651903 source:d:\projects\task 2 - oop\task 2\src\publication.cpp
+
+1620651933 source:d:\projects\task 2 - oop\task 2\src\tape.cpp
+
+1620656390 d:\projects\task 2 - oop\task 2\include\publication.h
+	<iostream>
+
+1620656446 d:\projects\task 2 - oop\task 2\include\book.h
+
+1620656372 d:\projects\task 2 - oop\task 2\include\tape.h
+
